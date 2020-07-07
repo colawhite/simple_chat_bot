@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple_chat_bot/static/css/main.fc40447b.chunk.css",
+    "main.js": "/simple_chat_bot/static/js/main.56d5b9bf.chunk.js",
+    "main.js.map": "/simple_chat_bot/static/js/main.56d5b9bf.chunk.js.map",
+    "runtime~main.js": "/simple_chat_bot/static/js/runtime~main.ce388700.js",
+    "runtime~main.js.map": "/simple_chat_bot/static/js/runtime~main.ce388700.js.map",
+    "static/js/2.5ac4cd02.chunk.js": "/simple_chat_bot/static/js/2.5ac4cd02.chunk.js",
+    "static/js/2.5ac4cd02.chunk.js.map": "/simple_chat_bot/static/js/2.5ac4cd02.chunk.js.map",
+    "index.html": "/simple_chat_bot/index.html",
+    "precache-manifest.223f402595251caca843e4f9a62f29af.js": "/simple_chat_bot/precache-manifest.223f402595251caca843e4f9a62f29af.js",
+    "service-worker.js": "/simple_chat_bot/service-worker.js",
+    "static/css/main.fc40447b.chunk.css.map": "/simple_chat_bot/static/css/main.fc40447b.chunk.css.map",
+    "static/media/logo.svg": "/simple_chat_bot/static/media/logo.ee7cd8ed.svg"
+  }
+}
